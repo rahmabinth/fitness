@@ -1,14 +1,14 @@
-# Exercise improves cardiovascular health and enhances mood
+# Exercise improves health and enhances mood
 
 ## Overview
 
-This repository provides 
+This repository provides all the necessary data and files for a paper outlining the effects of physical activity and maintaining fitness on improving overall health and enhancing one's mood. 
 
 ## File Structure
 
 The repo is structured as:
 
--   `data/raw_data` contains the raw data as obtained from the Pokemon wiki.
+-   `data/raw_data` contains the raw data as obtained from X.
 -   `data/analysis_data` contains the cleaned dataset that was constructed.
 -   `model` contains fitted models. 
 -   `other` contains relevant literature, details about LLM chat interactions, and sketches.
@@ -18,4 +18,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of the auto-complete tool, ChatGPT. The abstract and introduction were written with the help of ChatGPT and the entire chat history is available in inputs/llms/usage.txt.
+Aspects of the code were written with the help of ChatGPT 3.5. The abstract and introduction were written with the help of ChatGPT 3.5 and the entire chat history is available in inputs/llms/usage.txt.
